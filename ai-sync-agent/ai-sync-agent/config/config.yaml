@@ -1,0 +1,11 @@
+mappings:
+  C:\Users\T KARTHEEK\Desktop\movie-explorer:
+    folder_path: C:\Users\T KARTHEEK\Desktop\movie-explorer
+    remote_url: https://github.com/kartheektambi2005/movie-explorer.git
+    branch: main
+    project_type: HTML/CSS
+    auto_push: true
+    debounce_seconds: 5.0
+    last_synced_commit: 654cfa918bbde490dd305e7d131212762a055fd2
+watched_folders:
+- C:\Users\T KARTHEEK\Desktop\movie-explorer

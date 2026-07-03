@@ -1,0 +1,2 @@
+2026-07-03 12:56:34.504 | ERROR    | __main__:run:143 - No folders configured. Provide at least one folder path, e.g.
+  python agent.py "/path/to/project"

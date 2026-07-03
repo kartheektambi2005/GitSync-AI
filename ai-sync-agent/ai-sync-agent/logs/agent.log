@@ -1,0 +1,39 @@
+2026-07-03 12:56:34.504 | ERROR    | __main__:run:143 - No folders configured. Provide at least one folder path, e.g.
+  python agent.py "/path/to/project"
+2026-07-03 15:40:01.511 | INFO     | __main__:add_folder:62 - Detected project type for 'C:\Users\T KARTHEEK\Desktop\movie-explorer': HTML/CSS
+2026-07-03 15:40:01.533 | INFO     | repository_mapper:ensure_mapping:53 - No repository mapping found for 'C:\Users\T KARTHEEK\Desktop\movie-explorer'. Prompting user.
+2026-07-03 15:40:59.397 | INFO     | repository_mapper:ensure_mapping:65 - Saved mapping: 'C:\Users\T KARTHEEK\Desktop\movie-explorer' -> 'https://github.com/kartheektambi2005/movie-explorer.git'
+2026-07-03 15:40:59.430 | INFO     | git_manager:detect_or_init_repo:88 - Existing Git repository detected at C:\Users\T KARTHEEK\Desktop\movie-explorer
+2026-07-03 15:40:59.548 | INFO     | watcher:watch:164 - Watching folder: C:\Users\T KARTHEEK\Desktop\movie-explorer
+2026-07-03 15:40:59.848 | INFO     | watcher:start:170 - File system observer started.
+2026-07-03 15:40:59.857 | INFO     | __main__:run:155 - AI Sync Agent is running. Press Ctrl+C to stop.
+2026-07-03 15:42:47.858 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:17.270 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:17.286 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:23.044 | INFO     | git_manager:stage_all:186 - Staged all changes in C:\Users\T KARTHEEK\Desktop\movie-explorer
+2026-07-03 15:43:23.373 | INFO     | git_manager:commit:203 - [movie-explorer] fix: update 1 file(s) (HTML)
+
+Modified: index.html (8a1bc89)
+2026-07-03 15:43:29.149 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:29.155 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:30.560 | INFO     | git_manager:push:220 - [movie-explorer] Pushed 'main' to 'origin'
+2026-07-03 15:43:32.392 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:32.433 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:34.137 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:34.146 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:36.920 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:36.954 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:42.684 | INFO     | git_manager:stage_all:186 - Staged all changes in C:\Users\T KARTHEEK\Desktop\movie-explorer
+2026-07-03 15:43:42.879 | INFO     | git_manager:commit:203 - [movie-explorer] fix: update 1 file(s) (HTML)
+
+Modified: index.html (1d8e271)
+2026-07-03 15:43:45.405 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:45.413 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:45.866 | INFO     | git_manager:push:220 - [movie-explorer] Pushed 'main' to 'origin'
+2026-07-03 15:43:51.106 | INFO     | git_manager:stage_all:186 - Staged all changes in C:\Users\T KARTHEEK\Desktop\movie-explorer
+2026-07-03 15:43:51.290 | INFO     | git_manager:commit:203 - [movie-explorer] fix: update 1 file(s) (HTML)
+
+Modified: index.html (654cfa9)
+2026-07-03 15:43:54.351 | INFO     | git_manager:push:220 - [movie-explorer] Pushed 'main' to 'origin'
+2026-07-03 15:44:06.570 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:44:06.584 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html

@@ -1,0 +1,25 @@
+# Example configuration file. The agent auto-generates config/config.yaml
+# on first run; this file is a reference for the expected structure.
+
+watched_folders:
+  - /home/user/projects/RealEstateProject
+  - /home/user/projects/PortfolioSite
+
+mappings:
+  /home/user/projects/RealEstateProject:
+    folder_path: /home/user/projects/RealEstateProject
+    remote_url: https://github.com/username/real-estate-project.git
+    branch: main
+    project_type: Python
+    auto_push: true
+    debounce_seconds: 5
+    last_synced_commit: null
+
+  /home/user/projects/PortfolioSite:
+    folder_path: /home/user/projects/PortfolioSite
+    remote_url: https://github.com/username/portfolio-site.git
+    branch: main
+    project_type: React
+    auto_push: true
+    debounce_seconds: 5
+    last_synced_commit: null

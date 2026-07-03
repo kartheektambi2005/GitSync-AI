@@ -1,0 +1,17 @@
+2026-07-03 15:40:59.548 | INFO     | watcher:watch:164 - Watching folder: C:\Users\T KARTHEEK\Desktop\movie-explorer
+2026-07-03 15:40:59.848 | INFO     | watcher:start:170 - File system observer started.
+2026-07-03 15:42:47.858 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:17.270 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:17.286 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:29.149 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:29.155 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:32.392 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:32.433 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:34.137 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:34.146 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:36.920 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:36.954 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:45.405 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:43:45.413 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:44:06.570 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
+2026-07-03 15:44:06.584 | INFO     | watcher:_record_event:110 - [movie-explorer] modified: C:\Users\T KARTHEEK\Desktop\movie-explorer\index.html
