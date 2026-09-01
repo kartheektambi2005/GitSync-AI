@@ -1,4 +1,4 @@
-# AI Sync Agent
+ # AI Sync Agent
 
 An autonomous local AI agent that watches your project folders and keeps
 them automatically synchronized with GitHub — commit messages, staging,
