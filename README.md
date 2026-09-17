@@ -4,7 +4,7 @@ An autonomous local AI agent that watches your project folders and keeps
 them automatically synchronized with GitHub — commit messages, staging,
 committing and pushing all handled in the background while you just work
 in your editor (VS Code or otherwise).
-
+    
 ---
 
 ## Features
