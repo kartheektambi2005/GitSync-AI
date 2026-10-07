@@ -8,7 +8,7 @@ in your editor (VS Code or otherwise).
 ---
 
 ## Features
-
+   
 - Watches one or more local folders for file/folder creation, modification,
   deletion, and renames (via `watchdog`).
 - Debounces rapid successive saves into a single commit (no commit spam).
